@@ -1,0 +1,2 @@
+#automatically formats Terraform code according to the official HashiCorp style guide.
+terraform fmt -check -recursive
