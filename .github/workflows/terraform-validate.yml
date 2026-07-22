@@ -1,2 +1,0 @@
-terraform init
-terraform validate -no-color
